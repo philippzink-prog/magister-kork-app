@@ -53,7 +53,7 @@ Struktur:
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer YOUR_OPENAI_API_KEY`,
+          Authorization: `Bearer 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`,
         },
         body: JSON.stringify({
           model: "gpt-5",
